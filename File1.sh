@@ -1,3 +1,6 @@
 Hi
 This is a file1
-End fo v1
+End of v1
+
+Modifying file
+End of v2
