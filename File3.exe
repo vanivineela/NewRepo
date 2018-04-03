@@ -1,0 +1,7 @@
+Hi
+This is File3
+End of version1
+
+if (Answer = "Yes") then
+  Printf("The request is accepted");
+End of File v2
