@@ -1,0 +1,6 @@
+select * from NewRepo
+alter table NewRepo
+  add column Column1 integer;
+
+End of file v1
+  
